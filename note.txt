@@ -1,0 +1,12 @@
+Tinder Clone
+
+i) Material UI
+ii) Material UI Icons
+iii) Firebase
+iv) React Router
+
+React Tinder Card
+
+https://www.npmjs.com/package/react-tinder-card
+
+npm i react-tinder-card
